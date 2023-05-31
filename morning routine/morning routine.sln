@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "morning routine", "morning routine\morning routine.pyproj", "{56572D88-7EB1-4516-BC4F-1D3D88D4F814}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56572D88-7EB1-4516-BC4F-1D3D88D4F814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56572D88-7EB1-4516-BC4F-1D3D88D4F814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D8F8E44-CB7E-4E94-8B2B-667C841D9974}
+	EndGlobalSection
+EndGlobal
